@@ -11,13 +11,13 @@ spec:
     - type: LinkedIn
       where: (https://www.linkedin.com/in/desmond-goldsmith-3398201a4/
     - type: Instagram
-      where: gg.schmidt
+      where: dg.schmidt
     - type: Homepage
       where: 
   favorites:
-    number: 42
     animals: 🐶🐱🐻🐜
     food: 🌾🐔🥚
+    
 ```
 
 <!---
