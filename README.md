@@ -1,8 +1,24 @@
-- 👋 Hi, I’m Desmond Goldsmith 😉
-- 👀 I’m interested in DataScience and Software Engineering.
-- 🌱 I’m currently learning ReactJS, React Native and Data Science.
-- 👦 Pronouns: He/Him.
-- 📫 Let's connect on linkedIn: https://www.linkedin.com/in/desmond-goldsmith-3398201a4/
+## Hi 👋
+
+
+apiVersion: v23
+kind: Human
+metadata:
+  name: Desmond Goldsmith
+spec:
+  purpose: Software Engineer | Devops Engineer
+  locations:
+    - type: LinkedIn
+      where: (https://www.linkedin.com/in/desmond-goldsmith-3398201a4/
+    - type: Instagram
+      where: gg.schmidt
+    - type: Homepage
+      where: 
+  favorites:
+    number: 42
+    animals: 🐶🐱🐻🐜
+    food: 🌾🐔🥚
+
 
 <!---
 Desmondgoldsmith/Desmondgoldsmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
