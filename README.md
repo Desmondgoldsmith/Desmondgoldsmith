@@ -12,8 +12,8 @@ spec:
       where: (https://www.linkedin.com/in/desmond-goldsmith-3398201a4/
     - type: Instagram
       where: dg.schmidt
-    - type: Homepage
-      where: 
+    - type: Portfolio_website
+      where: 🔜 🔜
   favorites:
     animals: 🐶🐱🐻🐜
     food: 🌾🐔🥚
