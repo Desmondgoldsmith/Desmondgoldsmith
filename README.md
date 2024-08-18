@@ -12,7 +12,7 @@ spec:
 
   locations:
     - type: LinkedIn
-      where: (https://www.linkedin.com/in/desmond-goldsmith-3398201a4/
+      where: "https://www.linkedin.com/in/desmond-goldsmith-3398201a4/"
 
     - type: Instagram
       where: dg.schmidt
