@@ -5,7 +5,7 @@ apiVersion: v24
 kind: Human
 metadata:
 
-  name: Desmond Goldsmith
+  name: Desmond Goldsmith jr.
 
 spec:
   purpose: Software Engineer | Devops Engineer
